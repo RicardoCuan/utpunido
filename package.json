@@ -1,0 +1,32 @@
+{
+  "name": "utpunido",
+  "version": "0.0.0",
+  "description": "Página web que reúne un apoyo académico a los estudiantes de la FISC utp",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --color"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RicardoCuan/utpunido.git"
+  },
+  "keywords": [
+    "e-learning",
+    "npm",
+    "node.js",
+    "express.js",
+    "webpack",
+    "babel",
+    "react",
+    "react-router",
+    "redux",
+    "sass",
+    "typescript"
+  ],
+  "author": "Ricardo Cuan <ricardo.cuan@aiesec.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RicardoCuan/utpunido/issues"
+  },
+  "homepage": "https://github.com/RicardoCuan/utpunido#readme"
+}
