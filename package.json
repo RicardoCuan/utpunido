@@ -1,6 +1,6 @@
 {
   "name": "utpunido",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Página web que reúne un apoyo académico a los estudiantes de la FISC utp",
   "main": "index.js",
   "scripts": {
