@@ -1,7 +1,6 @@
 <table align="center"><tr><td colspan="1" align="center" width="9999">
 
 <br/>
-<img src="https://somosimpactopositivo.com/wp-content/uploads/2020/01/logoalado.png" align="center" width="300" alt="Ayudinga!" />
 
 # UTP Unido
 
