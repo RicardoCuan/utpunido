@@ -13,9 +13,7 @@
 <br/>
 [![ReactRouter](https://img.shields.io/badge/Routes-ReactRouter-%23CA4245?logo=react-router&link=https://reactrouter.com/)](https://reactrouter.com/)
 [![Redux](https://img.shields.io/badge/State-Redux-744cbc.svg?logo=Redux&logoColor=ED2B88)](https://redux.js.org/)
-[![PWA](https://img.shields.io/badge/PWA-Workbox-F57C00.svg)](https://developers.google.com/web/tools/workbox)
 [![Sass](https://img.shields.io/badge/Styles-Sass-%23CC6699?logo=sass)](https://sass-lang.com/)
-[![DS](https://img.shields.io/badge/DS-Storybook-FF4785.svg?logo=Storybook)](https://storybook.js.org/)
 
 Repositorio de la plataforma de UTP Unido
 
