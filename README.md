@@ -11,6 +11,7 @@
 [![Babel](https://img.shields.io/badge/Compiler-Babel-%23FDB515.svg?logo=Babel)](https://babeljs.io/)
 [![React](https://img.shields.io/badge/View-React-blue.svg?logo=React)](https://reactjs.org/)
 <br/>
+[![TypeScript](https://img.shields.io/badge/typeScript-%23007ACC.svg?logo=typeScript)](https://www.typescriptlang.org/)
 [![ReactRouter](https://img.shields.io/badge/Routes-ReactRouter-%23CA4245?logo=react-router&link=https://reactrouter.com/)](https://reactrouter.com/)
 [![Redux](https://img.shields.io/badge/State-Redux-744cbc.svg?logo=Redux&logoColor=ED2B88)](https://redux.js.org/)
 [![Sass](https://img.shields.io/badge/Styles-Sass-%23CC6699?logo=sass)](https://sass-lang.com/)
